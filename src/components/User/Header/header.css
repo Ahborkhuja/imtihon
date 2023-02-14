@@ -1,0 +1,24 @@
+.facebook,.twitter,.youtube,.instagram,.call{
+  font-size: 25px;
+  color: var(--light);
+}
+.facebook:hover,.twitter:hover,.youtube:hover,.instagram:hover,.call:hover{
+  color: var(--main-color);
+}
+.icon_phone{
+  width: 430px;
+}
+.option:hover{
+  color: var(--main-color)!important;
+  background: transparent!important;
+}
+.wrap{
+  background-color: #111111;
+}
+.linksB{
+  color: var(--dark)!important;
+}
+.linksB:hover{
+  transition: 0.3ms;
+  color: var(--main-color)!important;
+}
